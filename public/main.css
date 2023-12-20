@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background: #000;
+    color: #fff; */
+}
+body,html{
+    height: 100%;
+    width: 100%;
+}
+
+p {
+    text-align: center;
+}
+#flex-item1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+.logo-img {
+    width: 20px;
+    height: 20x;
+}
+.logo-con {
+    display: flex;
+    justify-content: space-between;
+}
