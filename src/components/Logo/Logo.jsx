@@ -1,5 +1,6 @@
 import React from 'react'
-import LogoImage from "../assets/img/youtube.png"
+import LogoImage from "../../assets/img/youtube.png"
+import "./logo.css"
 
 export const Logo = () => {
   return (
